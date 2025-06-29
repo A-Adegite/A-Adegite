@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adejuwon Adegite 👋</h1>
 
 <p align="center">
-  🧬 Budding Biomedical Scientist | 🔬 Cell Biologist & Geneticist | 🤖 AI for Genomics | 🧠 Data & Structural Bioinformatics Enthusiast
+  Budding Biomedical Scientist | ML/AI Enthusiast | Aspiring Protein Engineer
 </p>
 
 <p align="center">
@@ -18,57 +18,25 @@
 ---
 
 ### 👨‍🔬 About Me
+I’m a biomedical science graduate passionate about harnessing data, computation, and biology to solve real-world health challenges. With a strong interest in AI, structural biology, and genomics, I explore how these tools can help us understand disease mechanisms, design better proteins, and engineer biological systems at the molecular level.
 
-I'm **Adejuwon**, a passionate early-career biomedical scientist with a background in **Cell Biology and Genetics**. My mission is to harness the power of **Genomics**, **Structural Bioinformatics**, **Synthetic Biology**, and **Artificial Intelligence** to tackle complex healthcare problems—from **protein design** to **disease mutation analysis**.
+My interests lie at the intersection of:
 
-I believe in the convergence of **wet lab** and **computational science** as the future of personalized, predictive, and preventive medicine. My work lies at the intersection of:
-- 🧬 Genomics & Variant Interpretation  
-- 🧪 Protein Design & Engineering with AI  
-- 🧠 Structural Biology & Bioinformatics  
-- 📊 Data Science for Healthcare  
-- ⚗️ Synthetic Biology & Systems Design
-
----
-
-### 🔧 Current Tech Stack
-
-| Domain | Tools & Languages |
-|--------|-------------------|
-| Programming | Python, R, Bash, SQL, JavaScript |
-| Data | Pandas, NumPy, Matplotlib, ggplot2 |
-| Bioinformatics | Biopython, SAMtools, BEDTools, Nextflow |
-| AI/ML | PyTorch, Scikit-learn, Transformers |
-| Web | HTML5, CSS3, GitHub Pages |
-| Scripting & Automation | Bash, Snakemake, UNIX CLI |
-| Visualization | Seaborn, Plotly, RShiny |
-| Genomics Tools | FASTQC, BWA, STAR, GATK |
-| Structure | PyMOL, ChimeraX, AlphaFold2, Rosetta |
-
----
-
-### 📌 Interests
-
-- 🧬 **Next-Generation Sequencing (NGS)**  
-- 🧠 **Inverse Protein Folding** using AI (e.g., SeqPredNN, ProteinMPNN)  
-- 🤖 **AI for Antigen & Epitope Design**  
-- 🧫 **Point-of-Care Diagnostics**  
-- 🧱 **Synthetic Biology Circuits**  
-- 🧠 **Multi-omics Data Integration**  
-- 🧠 **Interpretable Machine Learning in Biomedicine**
-
----
-
-### 📂 Featured Projects (Coming Soon...)
-
-🚧 I'm currently working on some exciting projects that combine genomics, ML, and synthetic biology. Stay tuned!
+- 🧬 **Genomics** 
+- ⚗️ Synthetic Biology 
+- 🧠 **Structural Bioinformatics**  
+- 🤖 **AI-guided Protein Design and Engineering** 
+- 🩺 **Data-driven Healthcare** 
 
 ---
 
 ### 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📬 Email: yourname@email.com  
-- 💻 Portfolio (coming soon!)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adejuwon-adegite/)  
+- 📬 Email: adegiteadejuwon@gmail.com
+  
+Thanks for stopping by 👨🏽‍🔬🚀  
+Feel free to explore my repositories, fork something interesting, or drop me a message!
 
 ---
 
