@@ -20,7 +20,7 @@
 ### 👨‍🔬 About Me
 I’m a biomedical science graduate passionate about harnessing data, computation, and biology to solve real-world health challenges. With a strong interest in AI, structural biology, and genomics, I explore how these tools can help us understand disease mechanisms, design better proteins, and engineer biological systems at the molecular level.
 
-I’m exploring how **AI**, **genomics**, and **protein engineering** can revolutionize:
+I’m currently exploring how **AI**, **genomics**, and **protein engineering** can revolutionize:
 
 - 🧬 Understanding disease mechanisms  
 - ⚗️ Engineering biological systems  
