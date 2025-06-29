@@ -27,15 +27,15 @@ I’m currently exploring how **AI**, **genomics**, and **protein engineering** 
 
 - 🧬 Understanding disease mechanisms  
 - ⚗️ Engineering biological systems  
-- 🧠 Designing better proteins  
+- 🧫 Designing better proteins  
 - 🩺 Enhancing precision medicine  
 
 **My key interests include:**
 
 - 🧬 **Genomics** 
 - ⚗️ **Structural Bioinformatics & Molecular Modeling** 
-- 🧠 **AI/ML for Protein Design**  
-- 🤖 **Synthetic Biology & Biological Engineering** 
+- 🤖 **AI/ML for Protein Design**  
+- 🧫 **Synthetic Biology & Biological Engineering** 
 - 🩺 **Data-driven Healthcare** 
 
 ---
