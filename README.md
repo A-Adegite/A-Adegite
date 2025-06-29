@@ -20,12 +20,19 @@
 ### 👨‍🔬 About Me
 I’m a biomedical science graduate passionate about harnessing data, computation, and biology to solve real-world health challenges. With a strong interest in AI, structural biology, and genomics, I explore how these tools can help us understand disease mechanisms, design better proteins, and engineer biological systems at the molecular level.
 
-My interests lie at the intersection of:
+I’m exploring how **AI**, **genomics**, and **protein engineering** can revolutionize:
+
+- 🧬 Understanding disease mechanisms  
+- ⚗️ Engineering biological systems  
+- 🧠 Designing better proteins  
+- 🩺 Enhancing precision medicine  
+
+**My key interests include:**
 
 - 🧬 **Genomics** 
-- ⚗️ Synthetic Biology 
-- 🧠 **Structural Bioinformatics**  
-- 🤖 **AI-guided Protein Design and Engineering** 
+- ⚗️ **Structural Bioinformatics & Molecular Modeling** 
+- 🧠 **AI/ML for Protein Design**  
+- 🤖 **Synthetic Biology & Biological Engineering** 
 - 🩺 **Data-driven Healthcare** 
 
 ---
@@ -35,9 +42,11 @@ My interests lie at the intersection of:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adejuwon-adegite/)  
 - 📬 Email: adegiteadejuwon@gmail.com
   
-Thanks for stopping by 👨🏽‍🔬🚀  
-Feel free to explore my repositories, fork something interesting, or drop me a message!
 
 ---
+
+<p align="center">
+  🚀 Thanks for stopping by! Feel free to explore my repositories, fork something cool, or drop me a message.
+</p>
 
 
