@@ -72,12 +72,4 @@ I believe in the convergence of **wet lab** and **computational science** as the
 
 ---
 
-### ✨ Motto
 
-> *"Build biology like we build software: modular, testable, and intelligent."*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox"/>
-</p>
